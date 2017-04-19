@@ -20,3 +20,9 @@ A language detector is here:
 * https://github.com/grosser/language_sniffer
 * http://stackoverflow.com/questions/5318580/how-does-github-figure-out-a-projects-language
 
+### Metadata profiles to use
+* DC
+* LRMI 
+* OLAC
+* SIL
+* Application Profile
