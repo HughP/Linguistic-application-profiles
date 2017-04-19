@@ -1,2 +1,2 @@
 # Linguistic-application-profiles
-DC Applicaiton profiels for linguistics oriented applications
+DC Application profiles for linguistics oriented applications
