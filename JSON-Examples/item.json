@@ -1,0 +1,7 @@
+{
+  "@context": "http://example.com/app-profile.json",
+  "@id": "http://example.com/item/123",
+  "title": "Awesome resource metadata",
+  "description": "This is an item description that references the app profile using JSON-LD context.",
+  ...
+}
