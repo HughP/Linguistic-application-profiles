@@ -1,7 +1,7 @@
-#Linguistic-application-profiles
+# Linguistic-application-profiles
 DC Application profiles for linguistics oriented applications
 
-##Goals
+## Goals
 To define a useful application profile for application description via github. To serve metadata agragators.
 
 ### Software
